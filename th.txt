@@ -1,0 +1,41 @@
+JAVA SCRIPT:
+1)programming lang , c , c++
+
+2)script lang
+    comes with some addons and its subset of programming lang
+    javascript,python,perl,php,ruby
+
+prog/script 
+
+1)serverside
+    php,python,perl,ruby
+2)clientside
+    javascript
+
+dynamically typed : we dont have to declare the type of the variable
+statically typed : we have to declare the type of the variable
+
+Engine:
+1) spider monkey : firefox netscape
+2) v8 : google chrome :-------->nodejs
+3) chakra : microsoft edge
+4) javascript core : safari
+
+-------------------------------------------------------------------
+
+browser -->only understand web page : html
+
+we can write javascript in 3 ways:
+1)inline
+2)internal
+3)external
+
+
+-----------------
+use of javascript:
+1)to manipulate the DOM --- document object model
+
+
+
+
+
