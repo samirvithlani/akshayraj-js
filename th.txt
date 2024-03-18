@@ -37,5 +37,44 @@ use of javascript:
 
 
 
+operators:
+
+def : operators are special symbols which are used to perform operations on operands
+
+3 type of operators:
+1)unary : which requires only one operand
+    1)increment,decrement
+2)binary : which requires two operands
+
+    1)arithmetic : +,-,*,/,%,++,--
+    2)relational : <,>,<=,>=,==,!=,===,!==
+    3)logical : &&,||,!
+    4)assignment : =,+=,-=,*=,/=,%=
+    5)bitwise : &,|,^,~,<<,>>
+
+3)ternary : which requires three operands
+    1)conditional : ?:
+    2)typeof
+    3)optional chaining : ?.
 
 
+
+descision making statements:
+1)if
+2)switch
+3)loops
+
+
+1)if else
+  nested if else
+  else if ladder
+
+
+
+
+1) monthly salary user == 15000 rs ---> yearly salary
+
+1)if users's salary is > 3 lakh then he is eligible for 2 wheeler loan
+2)if users's salary is > 6 lakh then he is eligible for 4 wheeler loan
+3)if users's salary is > 10 lakh then he is eligible for home loan
+4)if users's salary is > 20 lakh then he is eligible for personal loan : -->age not more than 50
