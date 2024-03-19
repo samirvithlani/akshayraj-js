@@ -78,3 +78,60 @@ descision making statements:
 2)if users's salary is > 6 lakh then he is eligible for 4 wheeler loan
 3)if users's salary is > 10 lakh then he is eligible for home loan
 4)if users's salary is > 20 lakh then he is eligible for personal loan : -->age not more than 50
+
+
+
+loops
+1)entry controlled loop
+    1)for : start end ...
+    2)while :
+2)exit controlled loop
+    do while 
+
+for(let i=0;i<5;i++){
+    console.log(i)
+})       
+
+
+string : -->
+
+1)mutable
+    :we can modify the string with the same reference
+2)immutable
+    :we cannot modify the string with the same reference
+
+
+string is immutable in javascript
+
+
+string
+1)length
+2)uppercase
+3)lowercase
+4)concat
+5)slice
+6)indexof
+7)lastindexof
+8)replace
+9)trim
+10)split
+11)charat
+12)charcodeat
+13)substring
+14)includes
+
+name = "ram"
+
+upperCase "RAM"
+
+JSON: javascript object notation
+
+student 
+sname
+semail
+sadd
+samrk......
+
+student = {
+    key:""
+}
