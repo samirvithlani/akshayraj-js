@@ -105,6 +105,11 @@ var prabhasMovies = sales.flatMap((sale)=>{
 })
 console.log(prabhasMovies)
 
+//find monday collection....
+
+var mondayCollection = sales.find((sale)=>sale.weekDay === 'Monday').movies.reduce((total,movie)=>total+movie.tickets,0)
+console.log(mondayCollection)
+
 
 
 
