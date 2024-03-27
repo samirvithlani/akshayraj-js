@@ -79,3 +79,33 @@ var sales =[
 //4)find all movies which are of genre 'Action' and rating is greater than 4.5 and duration is greater than 2.5
 //5) find romatic movies
 //6)find all movies having duration greater than or equal to 3 hours
+
+
+// var action = sales.map((sale)=>{
+//     return sale.movies.filter((movie)=>{
+//         return movie.genre === 'Action'
+//     })
+// })
+
+var action = sales.flatMap((sale)=>{
+    return sale.movies.filter((movie)=>{
+        return movie.genre === 'Action'
+    })
+})
+
+console.log(action)
+
+
+var prabhasMovies = sales.flatMap((sale)=>{
+    return sale.movies.filter((movie)=>{
+
+        return movie.cast.includes('Prabhas')
+
+    })
+})
+console.log(prabhasMovies)
+
+
+
+
+
