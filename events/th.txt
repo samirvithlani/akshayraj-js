@@ -1,0 +1,11 @@
+WINDOW
+DOM
+
+html
+indetification
+
+1)id
+2)class
+3)tag
+4)name
+
